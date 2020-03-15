@@ -1,0 +1,436 @@
+{
+    "Spices": [
+        {
+            "name": "Grofers Mother's Choice Green Cardamom Whol…",
+            "weight": "50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-green-cardamom-wholeelaichi/prid/389689",
+            "price": "₹309",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-green-cardamom-wholeelaichi/prid/389689",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389689.jpg?ts=1575012855",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-green-cardamom-wholeelaichi/prid/389689"
+        },
+        {
+            "name": "Grofers Mother's Choice Sabzi Masala - Buy 1 Get…",
+            "weight": "2x50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-sabzi-masala-buy-1-get-1-free/prid/393233",
+            "price": "₹33",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-sabzi-masala-buy-1-get-1-free/prid/393233",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_393233.jpg?ts=1581680683",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-sabzi-masala-buy-1-get-1-free/prid/393233"
+        },
+        {
+            "name": "Grofers Mother's Choice Cumin Seeds/Je…",
+            "weight": "200 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-cumin-seedsjeera/prid/389684",
+            "price": "₹48",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-cumin-seedsjeera/prid/389684",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389684.jpg?ts=1575012855",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-cumin-seedsjeera/prid/389684"
+        },
+        {
+            "name": "Grofers Mother's Choice Ginger Garlic Pa…",
+            "weight": "200 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-ginger-garlic-paste/prid/388307",
+            "price": "₹37",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-ginger-garlic-paste/prid/388307",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_388307.jpg?ts=1575012853",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-ginger-garlic-paste/prid/388307"
+        },
+        {
+            "name": "Grofers Mother's Choice Garlic Pa…",
+            "weight": "200 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-garlic-paste/prid/388587",
+            "price": "₹44",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-garlic-paste/prid/388587",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_388587.jpg?ts=1575012852",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-garlic-paste/prid/388587"
+        },
+        {
+            "name": "Grofers Mother's Choice Chat Masala - Buy 1 Get …",
+            "weight": "2x50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-chat-masala-buy-1-get-1-free/prid/393230",
+            "price": "₹32",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-chat-masala-buy-1-get-1-free/prid/393230",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_393230.jpg?ts=1581680683",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-chat-masala-buy-1-get-1-free/prid/393230"
+        },
+        {
+            "name": "Grofers Mother's Choice Coriander Powder/Dha…",
+            "weight": "2x100 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-coriander-powderdhania-buy-1-get-1-free/prid/391653",
+            "price": "₹32",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-coriander-powderdhania-buy-1-get-1-free/prid/391653",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_391653.jpg?ts=1581680683",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-coriander-powderdhania-buy-1-get-1-free/prid/391653"
+        },
+        {
+            "name": "Grofers Mother's Choice Ginger Pa…",
+            "weight": "200 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-ginger-paste/prid/388588",
+            "price": "₹30",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-ginger-paste/prid/388588",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_388588.jpg?ts=1575012854",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-ginger-paste/prid/388588"
+        },
+        {
+            "name": "Grofers Mother's Choice Turmeric Powder/Haldi -…",
+            "weight": "2x100 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-turmeric-powderhaldi-buy-1-get-1-free/prid/391651",
+            "price": "₹30",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-turmeric-powderhaldi-buy-1-get-1-free/prid/391651",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_391651.jpg?ts=1581680683",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-turmeric-powderhaldi-buy-1-get-1-free/prid/391651"
+        },
+        {
+            "name": "Grofers Mother's Choice Black Peppercorns/Kali…",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-black-peppercornskali-mirch/prid/389688",
+            "price": "₹82",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-black-peppercornskali-mirch/prid/389688",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389688.jpg?ts=1575012855",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-black-peppercornskali-mirch/prid/389688"
+        },
+        {
+            "name": "Grofers Mother's Choice Turmeric Powder/Ha…",
+            "weight": "200 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-turmeric-powderhaldi/prid/388298",
+            "price": "₹33",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-turmeric-powderhaldi/prid/388298",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_388298.jpg?ts=1575012853",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-turmeric-powderhaldi/prid/388298"
+        },
+        {
+            "name": "Grofers Mother's Choice Shah Cumin Seeds/Je…",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-shah-cumin-seedsjeera/prid/389844",
+            "price": "₹92",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-shah-cumin-seedsjeera/prid/389844",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389844.jpg?ts=1575012760",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-shah-cumin-seedsjeera/prid/389844"
+        },
+        {
+            "name": "Organic Tattva Cumin Seeds/Jeera (Pou…",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/organic-tattva-cumin-seedsjeera-pouch/prid/370327",
+            "price": "₹51",
+            "price_url": "https://grofers.com/prn/organic-tattva-cumin-seedsjeera-pouch/prid/370327",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_370327.jpg",
+            "image_url": "https://grofers.com/prn/organic-tattva-cumin-seedsjeera-pouch/prid/370327"
+        },
+        {
+            "name": "Grofers Mother's Choice Coriander Powder/Dha…",
+            "weight": "200 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-coriander-powderdhania/prid/388296",
+            "price": "₹36",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-coriander-powderdhania/prid/388296",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_388296.jpg?ts=1575012853",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-coriander-powderdhania/prid/388296"
+        },
+        {
+            "name": "Grofers Mother's Choice Red Chilli Pow…",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-red-chilli-powder/prid/388293",
+            "price": "₹24",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-red-chilli-powder/prid/388293",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_388293.jpg?ts=1575012852",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-red-chilli-powder/prid/388293"
+        },
+        {
+            "name": "Grofers Mother's Choice Kashmiri Red Chilli Pow…",
+            "weight": "2x50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-kashmiri-red-chilli-powder-buy-1-get-1-free/prid/393245",
+            "price": "₹32",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-kashmiri-red-chilli-powder-buy-1-get-1-free/prid/393245",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_393245.jpg?ts=1559817364",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-kashmiri-red-chilli-powder-buy-1-get-1-free/prid/393245"
+        },
+        {
+            "name": "Grofers Mother's Choice Kashmiri Red Chilli Pow…",
+            "weight": "50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-kashmiri-red-chilli-powder/prid/391753",
+            "price": "₹18",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-kashmiri-red-chilli-powder/prid/391753",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_391753.jpg?ts=1575012618",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-kashmiri-red-chilli-powder/prid/391753"
+        },
+        {
+            "name": "Grofers Mother's Choice Garam Masala - Buy 1 G…",
+            "weight": "2x50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-garam-masala-buy-1-get-1-free/prid/393236",
+            "price": "₹39",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-garam-masala-buy-1-get-1-free/prid/393236",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_393236.jpg?ts=1581680683",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-garam-masala-buy-1-get-1-free/prid/393236"
+        },
+        {
+            "name": "Grofers Mother's Choice Garam Mas…",
+            "weight": "50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-garam-masala/prid/390677",
+            "price": "₹20",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-garam-masala/prid/390677",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_390677.jpg?ts=1575012662",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-garam-masala/prid/390677"
+        },
+        {
+            "name": "Catch Super Garam Masala (Pou…",
+            "weight": "200 g",
+            "weight_url": "https://grofers.com/prn/catch-super-garam-masala-pouch/prid/93038",
+            "price": "₹59",
+            "price_url": "https://grofers.com/prn/catch-super-garam-masala-pouch/prid/93038",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_93038.jpg?ts=1555914934",
+            "image_url": "https://grofers.com/prn/catch-super-garam-masala-pouch/prid/93038"
+        },
+        {
+            "name": "Tata Sampann Garam Mas…",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/tata-sampann-garam-masala/prid/184908",
+            "price": "₹70",
+            "price_url": "https://grofers.com/prn/tata-sampann-garam-masala/prid/184908",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_184908.jpg?ts=1574316536",
+            "image_url": "https://grofers.com/prn/tata-sampann-garam-masala/prid/184908"
+        },
+        {
+            "name": "Everest Royal Garam Mas…",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/everest-royal-garam-masala/prid/25278",
+            "price": "₹73",
+            "price_url": "https://grofers.com/prn/everest-royal-garam-masala/prid/25278",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_25278.jpg",
+            "image_url": "https://grofers.com/prn/everest-royal-garam-masala/prid/25278"
+        },
+        {
+            "name": "Kohinoor Garam Masala",
+            "weight": "2x45 gm",
+            "weight_url": "https://grofers.com/prn/kohinoor-garam-masala/prid/370319",
+            "price": "₹120",
+            "price_url": "https://grofers.com/prn/kohinoor-garam-masala/prid/370319",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_370319.jpg",
+            "image_url": "https://grofers.com/prn/kohinoor-garam-masala/prid/370319"
+        },
+        {
+            "name": "Grofers Mother's Choice Compounded Hing Po…",
+            "weight": "50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-compounded-hing-powder/prid/395373",
+            "price": "₹59",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-compounded-hing-powder/prid/395373",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_395373.jpg?ts=1575012475",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-compounded-hing-powder/prid/395373"
+        },
+        {
+            "name": "Grofers Mother's Choice Hing Pow…",
+            "weight": "25 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-hing-powder/prid/405820",
+            "price": "₹31",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-hing-powder/prid/405820",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_405820.jpg?ts=1578310225",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-hing-powder/prid/405820"
+        },
+        {
+            "name": "Grofers Mother's Choice Tamarind Wh…",
+            "weight": "200 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-tamarind-whole/prid/389704",
+            "price": "₹37",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-tamarind-whole/prid/389704",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389704.jpg?ts=1582203987",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-tamarind-whole/prid/389704"
+        },
+        {
+            "name": "Grofers Mother's Choice Ajwain Se…",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-ajwain-seeds/prid/389700",
+            "price": "₹47",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-ajwain-seeds/prid/389700",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389700.jpg?ts=1575012856",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-ajwain-seeds/prid/389700"
+        },
+        {
+            "name": "Grofers Mother's Choice - Saunf Se…",
+            "weight": "200 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-saunf-seeds/prid/389699",
+            "price": "₹62",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-saunf-seeds/prid/389699",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389699.jpg?ts=1575012856",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-saunf-seeds/prid/389699"
+        },
+        {
+            "name": "Grofers Mother's Choice Cumin Powder/Jeera - …",
+            "weight": "2x50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-cumin-powderjeera-buy-1-get-1-free/prid/393243",
+            "price": "₹35",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-cumin-powderjeera-buy-1-get-1-free/prid/393243",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_393243.jpg?ts=1560228341",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-cumin-powderjeera-buy-1-get-1-free/prid/393243"
+        },
+        {
+            "name": "Grofers Mother's Choice Cumin Powder/Je…",
+            "weight": "50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-cumin-powderjeera/prid/391752",
+            "price": "₹19",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-cumin-powderjeera/prid/391752",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_391752.jpg?ts=1575012618",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-cumin-powderjeera/prid/391752"
+        },
+        {
+            "name": "Catch Cumin Powder/Jee…",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/catch-cumin-powderjeera/prid/11186",
+            "price": "₹44",
+            "price_url": "https://grofers.com/prn/catch-cumin-powderjeera/prid/11186",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_11186.jpg",
+            "image_url": "https://grofers.com/prn/catch-cumin-powderjeera/prid/11186"
+        },
+        {
+            "name": "Grofers Mother's Choice Chat Mas…",
+            "weight": "50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-chat-masala/prid/390685",
+            "price": "₹18",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-chat-masala/prid/390685",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_390685.jpg?ts=1575012663",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-chat-masala/prid/390685"
+        },
+        {
+            "name": "Catch Chat Masala (Sprinkl…",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/catch-chat-masala-sprinkler/prid/10895",
+            "price": "₹60",
+            "price_url": "https://grofers.com/prn/catch-chat-masala-sprinkler/prid/10895",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_10895.jpg",
+            "image_url": "https://grofers.com/prn/catch-chat-masala-sprinkler/prid/10895"
+        },
+        {
+            "name": "Catch Chatpata Chat Mas…",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/catch-chatpata-chat-masala/prid/118789",
+            "price": "₹53",
+            "price_url": "https://grofers.com/prn/catch-chatpata-chat-masala/prid/118789",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_118789.jpg?ts=1551249943",
+            "image_url": "https://grofers.com/prn/catch-chatpata-chat-masala/prid/118789"
+        },
+        {
+            "name": "Grofers Mother's Choice Sabzi Mas…",
+            "weight": "50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-sabzi-masala/prid/390679",
+            "price": "₹18",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-sabzi-masala/prid/390679",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_390679.jpg?ts=1575012662",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-sabzi-masala/prid/390679"
+        },
+        {
+            "name": "Catch Sabzi Masala",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/catch-sabzi-masala/prid/18855",
+            "price": "₹46",
+            "price_url": "https://grofers.com/prn/catch-sabzi-masala/prid/18855",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_18855.jpg?ts=1551249942",
+            "image_url": "https://grofers.com/prn/catch-sabzi-masala/prid/18855"
+        },
+        {
+            "name": "Kohinoor Lazeez Sabzi Mas…",
+            "weight": "40 g",
+            "weight_url": "https://grofers.com/prn/kohinoor-lazeez-sabzi-masala/prid/379860",
+            "price": "₹47",
+            "price_url": "https://grofers.com/prn/kohinoor-lazeez-sabzi-masala/prid/379860",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_379860.jpg?ts=1571824651",
+            "image_url": "https://grofers.com/prn/kohinoor-lazeez-sabzi-masala/prid/379860"
+        },
+        {
+            "name": "Grofers Mother's Choice Black Cardamom Whol…",
+            "weight": "50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-black-cardamom-wholeelaichi/prid/389685",
+            "price": "₹77",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-black-cardamom-wholeelaichi/prid/389685",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389685.jpg?ts=1575012855",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-black-cardamom-wholeelaichi/prid/389685"
+        },
+        {
+            "name": "Grofers Mother's Choice Coriander Seeds/Dha…",
+            "weight": "200 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-coriander-seedsdhania/prid/389686",
+            "price": "₹44",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-coriander-seedsdhania/prid/389686",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389686.jpg?ts=1575012855",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-coriander-seedsdhania/prid/389686"
+        },
+        {
+            "name": "Grofers Mother's Choice Sambhar Masala - Buy …",
+            "weight": "2x50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-sambhar-masala-buy-1-get-1-free/prid/393229",
+            "price": "₹32",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-sambhar-masala-buy-1-get-1-free/prid/393229",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_393229.jpg?ts=1555603201",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-sambhar-masala-buy-1-get-1-free/prid/393229"
+        },
+        {
+            "name": "Grofers Mother's Choice Sambhar Mas…",
+            "weight": "50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-sambhar-masala/prid/390700",
+            "price": "₹17",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-sambhar-masala/prid/390700",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_390700.jpg?ts=1575012663",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-sambhar-masala/prid/390700"
+        },
+        {
+            "name": "Everest Sambhar Masala",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/everest-sambhar-masala/prid/93",
+            "price": "₹61",
+            "price_url": "https://grofers.com/prn/everest-sambhar-masala/prid/93",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_93.jpg",
+            "image_url": "https://grofers.com/prn/everest-sambhar-masala/prid/93"
+        },
+        {
+            "name": "Grofers Mother's Choice Meat Masala - Buy 1 Get …",
+            "weight": "2x50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-meat-masala-buy-1-get-1-free/prid/393237",
+            "price": "₹37",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-meat-masala-buy-1-get-1-free/prid/393237",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_393237.jpg?ts=1555603203",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-meat-masala-buy-1-get-1-free/prid/393237"
+        },
+        {
+            "name": "Grofers Mother's Choice Meat Mas…",
+            "weight": "50 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-meat-masala/prid/390682",
+            "price": "₹19",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-meat-masala/prid/390682",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_390682.jpg?ts=1575012662",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-meat-masala/prid/390682"
+        },
+        {
+            "name": "Catch Meat Masala",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/catch-meat-masala/prid/10905",
+            "price": "₹59",
+            "price_url": "https://grofers.com/prn/catch-meat-masala/prid/10905",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_10905.jpg",
+            "image_url": "https://grofers.com/prn/catch-meat-masala/prid/10905"
+        },
+        {
+            "name": "Tata Sampann Meat Mas…",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/tata-sampann-meat-masala/prid/185990",
+            "price": "₹63",
+            "price_url": "https://grofers.com/prn/tata-sampann-meat-masala/prid/185990",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_185990.jpg?ts=1574316537",
+            "image_url": "https://grofers.com/prn/tata-sampann-meat-masala/prid/185990"
+        },
+        {
+            "name": "Catch Kitchen King Masala",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/catch-kitchen-king-masala/prid/10904",
+            "price": "₹57",
+            "price_url": "https://grofers.com/prn/catch-kitchen-king-masala/prid/10904",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_10904.jpg?ts=1568707564",
+            "image_url": "https://grofers.com/prn/catch-kitchen-king-masala/prid/10904"
+        },
+        {
+            "name": "Tata Sampann Pav Bhaji Mas…",
+            "weight": "45 g",
+            "weight_url": "https://grofers.com/prn/tata-sampann-pav-bhaji-masala/prid/326077",
+            "price": "₹31",
+            "price_url": "https://grofers.com/prn/tata-sampann-pav-bhaji-masala/prid/326077",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_326077.jpg?ts=1574080502",
+            "image_url": "https://grofers.com/prn/tata-sampann-pav-bhaji-masala/prid/326077"
+        }
+    ]
+}

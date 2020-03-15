@@ -1,0 +1,85 @@
+{
+    "Salt & Sugar": [
+        {
+            "name": "Family Farm Sugar",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/family-farm-sugar/prid/400105",
+            "price": "₹38",
+            "price_url": "https://grofers.com/prn/family-farm-sugar/prid/400105",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_400105.jpg",
+            "image_url": "https://grofers.com/prn/family-farm-sugar/prid/400105"
+        },
+        {
+            "name": "Grofers Mother's Choice Sugar P…",
+            "weight": "500 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-sugar-powder/prid/389800",
+            "price": "₹38",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-sugar-powder/prid/389800",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389800.jpg?ts=1575012759",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-sugar-powder/prid/389800"
+        },
+        {
+            "name": "Grofers Mother's Choice Refined …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-refined-sugar/prid/389575",
+            "price": "₹209",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-refined-sugar/prid/389575",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389575.jpg?ts=1579066495",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-refined-sugar/prid/389575"
+        },
+        {
+            "name": "Grofers Mother's Choice Powder Black…",
+            "weight": "100 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-powder-black-salt/prid/389709",
+            "price": "₹9",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-powder-black-salt/prid/389709",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389709.jpg?ts=1575012806",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-powder-black-salt/prid/389709"
+        },
+        {
+            "name": "Grofers Mother's Choice Diamond M…",
+            "weight": "200 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-diamond-mishri/prid/389923",
+            "price": "₹18",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-diamond-mishri/prid/389923",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389923.jpg?ts=1582204020",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-diamond-mishri/prid/389923"
+        },
+        {
+            "name": "Puro Healthy Salt",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/puro-healthy-salt/prid/381536",
+            "price": "₹96",
+            "price_url": "https://grofers.com/prn/puro-healthy-salt/prid/381536",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_381536.jpg",
+            "image_url": "https://grofers.com/prn/puro-healthy-salt/prid/381536"
+        },
+        {
+            "name": "Dhampur Green Powder Ja…",
+            "weight": "700 g",
+            "weight_url": "https://grofers.com/prn/dhampur-green-powder-jaggery/prid/407991",
+            "price": "₹118",
+            "price_url": "https://grofers.com/prn/dhampur-green-powder-jaggery/prid/407991",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_407991.jpg?ts=1572950791",
+            "image_url": "https://grofers.com/prn/dhampur-green-powder-jaggery/prid/407991"
+        },
+        {
+            "name": "Mawana Premium Crystal …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/mawana-premium-crystal-sugar/prid/11007",
+            "price": "₹255",
+            "price_url": "https://grofers.com/prn/mawana-premium-crystal-sugar/prid/11007",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_11007.jpg?ts=1558682770",
+            "image_url": "https://grofers.com/prn/mawana-premium-crystal-sugar/prid/11007"
+        },
+        {
+            "name": "Sugar Free Gold Sweetener",
+            "weight": "500 tablets",
+            "weight_url": "https://grofers.com/prn/sugar-free-gold-sweetener/prid/15474",
+            "price": "₹240",
+            "price_url": "https://grofers.com/prn/sugar-free-gold-sweetener/prid/15474",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_15474.jpg?ts=1564555278",
+            "image_url": "https://grofers.com/prn/sugar-free-gold-sweetener/prid/15474"
+        }
+    ]
+}

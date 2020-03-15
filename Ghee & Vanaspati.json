@@ -1,0 +1,85 @@
+{
+    "Ghee & Vanaspati": [
+        {
+            "name": "Family Farm Desi Ghee",
+            "weight": "1 l",
+            "weight_url": "https://grofers.com/prn/family-farm-desi-ghee/prid/410826",
+            "price": "₹330",
+            "price_url": "https://grofers.com/prn/family-farm-desi-ghee/prid/410826",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_410826.jpg?ts=1577766840",
+            "image_url": "https://grofers.com/prn/family-farm-desi-ghee/prid/410826"
+        },
+        {
+            "name": "Dalda Vanaspati Ghee",
+            "weight": "1 l",
+            "weight_url": "https://grofers.com/prn/dalda-vanaspati-ghee/prid/27125",
+            "price": "₹101",
+            "price_url": "https://grofers.com/prn/dalda-vanaspati-ghee/prid/27125",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_27125.jpg",
+            "image_url": "https://grofers.com/prn/dalda-vanaspati-ghee/prid/27125"
+        },
+        {
+            "name": "Paras Desi Ghee (Carton)",
+            "weight": "1 l",
+            "weight_url": "https://grofers.com/prn/paras-desi-ghee-carton/prid/18619",
+            "price": "₹404",
+            "price_url": "https://grofers.com/prn/paras-desi-ghee-carton/prid/18619",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_18619.jpg",
+            "image_url": "https://grofers.com/prn/paras-desi-ghee-carton/prid/18619"
+        },
+        {
+            "name": "Devasaya Pure Desi Ghee (Ca…",
+            "weight": "1 l",
+            "weight_url": "https://grofers.com/prn/devasaya-pure-desi-ghee-carton/prid/368668",
+            "price": "₹334",
+            "price_url": "https://grofers.com/prn/devasaya-pure-desi-ghee-carton/prid/368668",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_368668.jpg?ts=1573725167",
+            "image_url": "https://grofers.com/prn/devasaya-pure-desi-ghee-carton/prid/368668"
+        },
+        {
+            "name": "Gopaljee Ananda Ghee",
+            "weight": "1 l",
+            "weight_url": "https://grofers.com/prn/gopaljee-ananda-ghee/prid/73536",
+            "price": "₹426",
+            "price_url": "https://grofers.com/prn/gopaljee-ananda-ghee/prid/73536",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_73536.jpg",
+            "image_url": "https://grofers.com/prn/gopaljee-ananda-ghee/prid/73536"
+        },
+        {
+            "name": "Aashirvaad Svasti Pure Cow Ghee (Ca…",
+            "weight": "1 l",
+            "weight_url": "https://grofers.com/prn/aashirvaad-svasti-pure-cow-ghee-carton/prid/385846",
+            "price": "₹529",
+            "price_url": "https://grofers.com/prn/aashirvaad-svasti-pure-cow-ghee-carton/prid/385846",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_385846.jpg",
+            "image_url": "https://grofers.com/prn/aashirvaad-svasti-pure-cow-ghee-carton/prid/385846"
+        },
+        {
+            "name": "Grofers Mother's Choice Cow Ghee (Ca…",
+            "weight": "500 ml",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-cow-ghee-carton/prid/393926",
+            "price": "₹238",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-cow-ghee-carton/prid/393926",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_393926.jpg?ts=1575012619",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-cow-ghee-carton/prid/393926"
+        },
+        {
+            "name": "Gowardhan Premium Cow Ghee …",
+            "weight": "1 l",
+            "weight_url": "https://grofers.com/prn/gowardhan-premium-cow-ghee-jar/prid/35951",
+            "price": "₹564",
+            "price_url": "https://grofers.com/prn/gowardhan-premium-cow-ghee-jar/prid/35951",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_35951.jpg",
+            "image_url": "https://grofers.com/prn/gowardhan-premium-cow-ghee-jar/prid/35951"
+        },
+        {
+            "name": "Patanjali Cow Ghee (Cart…",
+            "weight": "500 ml",
+            "weight_url": "https://grofers.com/prn/patanjali-cow-ghee-carton/prid/24479",
+            "price": "₹295",
+            "price_url": "https://grofers.com/prn/patanjali-cow-ghee-carton/prid/24479",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_24479.jpg?1474030034",
+            "image_url": "https://grofers.com/prn/patanjali-cow-ghee-carton/prid/24479"
+        }
+    ]
+}

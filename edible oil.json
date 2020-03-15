@@ -1,0 +1,410 @@
+
+{
+    "edible oil":[
+    {
+    "name":"Grofers Mother's Choice Pomace Olive Oil (…",
+    "weight":"5 l",
+    "weight_url":"https://grofers.com/prn/grofers-mothers-choice-pomace-olive-oil-tin/prid/387331",
+    "price":"₹1010",
+    "price_url":"https://grofers.com/prn/grofers-mothers-choice-pomace-olive-oil-tin/prid/387331",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_387331.jpg?ts=1575282062",
+    "image_url":"https://grofers.com/prn/grofers-mothers-choice-pomace-olive-oil-tin/prid/387331"
+    },
+    {
+    "name":"Grofers Mother's Choice Kachi Ghani Mustard Oi…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/grofers-mothers-choice-kachi-ghani-mustard-oil-bottle/prid/391297",
+    "price":"₹109",
+    "price_url":"https://grofers.com/prn/grofers-mothers-choice-kachi-ghani-mustard-oil-bottle/prid/391297",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_391297.jpg?ts=1575012667",
+    "image_url":"https://grofers.com/prn/grofers-mothers-choice-kachi-ghani-mustard-oil-bottle/prid/391297"
+    },
+    {
+    "name":"Pansari Sesame Oil/Til Oil (Bot…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/pansari-sesame-oiltil-oil-bottle/prid/308223",
+    "price":"₹123",
+    "price_url":"https://grofers.com/prn/pansari-sesame-oiltil-oil-bottle/prid/308223",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_308223.jpg",
+    "image_url":"https://grofers.com/prn/pansari-sesame-oiltil-oil-bottle/prid/308223"
+    },
+    {
+    "name":"Grofers Mother's Choice Kachi Ghani Mustard Oi…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/grofers-mothers-choice-kachi-ghani-mustard-oil-pouch/prid/391740",
+    "price":"₹104",
+    "price_url":"https://grofers.com/prn/grofers-mothers-choice-kachi-ghani-mustard-oil-pouch/prid/391740",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_391740.jpg?ts=1575012618",
+    "image_url":"https://grofers.com/prn/grofers-mothers-choice-kachi-ghani-mustard-oil-pouch/prid/391740"
+    },
+    {
+    "name":"Fortune Soya Health Refined Soyabean Oil …",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/fortune-soya-health-refined-soyabean-oil-pouch/prid/52",
+    "price":"₹98",
+    "price_url":"https://grofers.com/prn/fortune-soya-health-refined-soyabean-oil-pouch/prid/52",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_52.jpg?ts=1582006625",
+    "image_url":"https://grofers.com/prn/fortune-soya-health-refined-soyabean-oil-pouch/prid/52"
+    },
+    {
+    "name":"Grofers Mother's Choice Rice Bran Oil (Po…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/grofers-mothers-choice-rice-bran-oil-pouch/prid/400959",
+    "price":"₹103",
+    "price_url":"https://grofers.com/prn/grofers-mothers-choice-rice-bran-oil-pouch/prid/400959",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_400959.jpg?ts=1575012477",
+    "image_url":"https://grofers.com/prn/grofers-mothers-choice-rice-bran-oil-pouch/prid/400959"
+    },
+    {
+    "name":"Grofers Mother's Choice Rice Bran Oil (…",
+    "weight":"5 l",
+    "weight_url":"https://grofers.com/prn/grofers-mothers-choice-rice-bran-oil-jar/prid/405822",
+    "price":"₹531",
+    "price_url":"https://grofers.com/prn/grofers-mothers-choice-rice-bran-oil-jar/prid/405822",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_405822.jpg?ts=1575012478",
+    "image_url":"https://grofers.com/prn/grofers-mothers-choice-rice-bran-oil-jar/prid/405822"
+    },
+    {
+    "name":"Oleev Pomace Olive Oil (T…",
+    "weight":"5 l",
+    "weight_url":"https://grofers.com/prn/oleev-pomace-olive-oil-tin/prid/43307",
+    "price":"₹1379",
+    "price_url":"https://grofers.com/prn/oleev-pomace-olive-oil-tin/prid/43307",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_43307.jpg?ts=1566280447",
+    "image_url":"https://grofers.com/prn/oleev-pomace-olive-oil-tin/prid/43307"
+    },
+    {
+    "name":"Fortune Health Refined Rice Bran Oil (Po…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/fortune-health-refined-rice-bran-oil-pouch/prid/14624",
+    "price":"₹124",
+    "price_url":"https://grofers.com/prn/fortune-health-refined-rice-bran-oil-pouch/prid/14624",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_14624.jpg?ts=1582006625",
+    "image_url":"https://grofers.com/prn/fortune-health-refined-rice-bran-oil-pouch/prid/14624"
+    },
+    {
+    "name":"Borges Extra Light Olive Oil (Bot…",
+    "weight":"2 l",
+    "weight_url":"https://grofers.com/prn/borges-extra-light-olive-oil-bottle/prid/13542",
+    "price":"₹1016",
+    "price_url":"https://grofers.com/prn/borges-extra-light-olive-oil-bottle/prid/13542",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_13542.jpg",
+    "image_url":"https://grofers.com/prn/borges-extra-light-olive-oil-bottle/prid/13542"
+    },
+    {
+    "name":"Grofers Mother's Choice Kachi Ghani Mustard Oi…",
+    "weight":"5 l",
+    "weight_url":"https://grofers.com/prn/grofers-mothers-choice-kachi-ghani-mustard-oil-jar/prid/395372",
+    "price":"₹543",
+    "price_url":"https://grofers.com/prn/grofers-mothers-choice-kachi-ghani-mustard-oil-jar/prid/395372",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_395372.jpg?ts=1575012475",
+    "image_url":"https://grofers.com/prn/grofers-mothers-choice-kachi-ghani-mustard-oil-jar/prid/395372"
+    },
+    {
+    "name":"Emami Healthy & Tasty Kachi Ghani Mustard Oi…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/emami-healthy-tasty-kachi-ghani-mustard-oil-bottle/prid/142582",
+    "price":"₹115",
+    "price_url":"https://grofers.com/prn/emami-healthy-tasty-kachi-ghani-mustard-oil-bottle/prid/142582",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_142582.jpg?ts=1574316536",
+    "image_url":"https://grofers.com/prn/emami-healthy-tasty-kachi-ghani-mustard-oil-bottle/prid/142582"
+    },
+    {
+    "name":"Dhara Mustard Oil (Bottle)",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/dhara-mustard-oil-bottle/prid/174727",
+    "price":"₹116",
+    "price_url":"https://grofers.com/prn/dhara-mustard-oil-bottle/prid/174727",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_174727.jpg",
+    "image_url":"https://grofers.com/prn/dhara-mustard-oil-bottle/prid/174727"
+    },
+    {
+    "name":"Dhara Kachi Ghani Mustard Oil (…",
+    "weight":"5 l",
+    "weight_url":"https://grofers.com/prn/dhara-kachi-ghani-mustard-oil-jar/prid/35110",
+    "price":"₹561",
+    "price_url":"https://grofers.com/prn/dhara-kachi-ghani-mustard-oil-jar/prid/35110",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_35110.jpg",
+    "image_url":"https://grofers.com/prn/dhara-kachi-ghani-mustard-oil-jar/prid/35110"
+    },
+    {
+    "name":"Nature Fresh Acti Lite Refined Soyabean Oil …",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/nature-fresh-acti-lite-refined-soyabean-oil-pouch/prid/11214",
+    "price":"₹102",
+    "price_url":"https://grofers.com/prn/nature-fresh-acti-lite-refined-soyabean-oil-pouch/prid/11214",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_11214.jpg?ts=1583396139",
+    "image_url":"https://grofers.com/prn/nature-fresh-acti-lite-refined-soyabean-oil-pouch/prid/11214"
+    },
+    {
+    "name":"King's Refined Soyabean Oil (Po…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/kings-refined-soyabean-oil-pouch/prid/61510",
+    "price":"₹106",
+    "price_url":"https://grofers.com/prn/kings-refined-soyabean-oil-pouch/prid/61510",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_61510.jpg",
+    "image_url":"https://grofers.com/prn/kings-refined-soyabean-oil-pouch/prid/61510"
+    },
+    {
+    "name":"Oleev Pomace Olive Oil (Bot…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/oleev-pomace-olive-oil-bottle/prid/11305",
+    "price":"₹299",
+    "price_url":"https://grofers.com/prn/oleev-pomace-olive-oil-bottle/prid/11305",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_11305.jpg?ts=1579838386",
+    "image_url":"https://grofers.com/prn/oleev-pomace-olive-oil-bottle/prid/11305"
+    },
+    {
+    "name":"Oleev Pomace Olive Oil (Bottle) - Pack …",
+    "weight":"2x1 l",
+    "weight_url":"https://grofers.com/prn/oleev-pomace-olive-oil-bottle-pack-of-2/prid/404575",
+    "price":"₹589",
+    "price_url":"https://grofers.com/prn/oleev-pomace-olive-oil-bottle-pack-of-2/prid/404575",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_404575.jpg?ts=1583145077",
+    "image_url":"https://grofers.com/prn/oleev-pomace-olive-oil-bottle-pack-of-2/prid/404575"
+    },
+    {
+    "name":"Leonardo Extra Virgin Olive Oil (Bot…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/leonardo-extra-virgin-olive-oil-bottle/prid/11229",
+    "price":"₹709",
+    "price_url":"https://grofers.com/prn/leonardo-extra-virgin-olive-oil-bottle/prid/11229",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_11229.jpg?ts=1563941373",
+    "image_url":"https://grofers.com/prn/leonardo-extra-virgin-olive-oil-bottle/prid/11229"
+    },
+    {
+    "name":"Leonardo Extra Light Olive…",
+    "weight":"2 l",
+    "weight_url":"https://grofers.com/prn/leonardo-extra-light-olive-oil/prid/214095",
+    "price":"₹1036",
+    "price_url":"https://grofers.com/prn/leonardo-extra-light-olive-oil/prid/214095",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_214095.jpg?ts=1563941406",
+    "image_url":"https://grofers.com/prn/leonardo-extra-light-olive-oil/prid/214095"
+    },
+    {
+    "name":"Borges Classic Olive Oil (Bot…",
+    "weight":"250 ml",
+    "weight_url":"https://grofers.com/prn/borges-classic-olive-oil-bottle/prid/45553",
+    "price":"₹311",
+    "price_url":"https://grofers.com/prn/borges-classic-olive-oil-bottle/prid/45553",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_45553.jpg",
+    "image_url":"https://grofers.com/prn/borges-classic-olive-oil-bottle/prid/45553"
+    },
+    {
+    "name":"Borges Extra Light Olive Oil (…",
+    "weight":"5 l",
+    "weight_url":"https://grofers.com/prn/borges-extra-light-olive-oil-jar/prid/13544",
+    "price":"₹2434",
+    "price_url":"https://grofers.com/prn/borges-extra-light-olive-oil-jar/prid/13544",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_13544.jpg?ts=1537161060",
+    "image_url":"https://grofers.com/prn/borges-extra-light-olive-oil-jar/prid/13544"
+    },
+    {
+    "name":"Borges Extra Virgin Olive Oil (Bot…",
+    "weight":"500 ml",
+    "weight_url":"https://grofers.com/prn/borges-extra-virgin-olive-oil-bottle/prid/40",
+    "price":"₹564",
+    "price_url":"https://grofers.com/prn/borges-extra-virgin-olive-oil-bottle/prid/40",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_40.jpg",
+    "image_url":"https://grofers.com/prn/borges-extra-virgin-olive-oil-bottle/prid/40"
+    },
+    {
+    "name":"Grofers Mother's Choice Pomace Olive Oil (Bot…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/grofers-mothers-choice-pomace-olive-oil-bottle/prid/387330",
+    "price":"₹222",
+    "price_url":"https://grofers.com/prn/grofers-mothers-choice-pomace-olive-oil-bottle/prid/387330",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_387330.jpg?ts=1575012851",
+    "image_url":"https://grofers.com/prn/grofers-mothers-choice-pomace-olive-oil-bottle/prid/387330"
+    },
+    {
+    "name":"Cesar Pomace Olive Oil (J…",
+    "weight":"5 l",
+    "weight_url":"https://grofers.com/prn/cesar-pomace-olive-oil-jar/prid/63226",
+    "price":"₹2113",
+    "price_url":"https://grofers.com/prn/cesar-pomace-olive-oil-jar/prid/63226",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_63226.jpg?ts=1537773668",
+    "image_url":"https://grofers.com/prn/cesar-pomace-olive-oil-jar/prid/63226"
+    },
+    {
+    "name":"O'range Coconut Oil (Jar)",
+    "weight":"500 ml",
+    "weight_url":"https://grofers.com/prn/orange-coconut-oil-jar/prid/407539",
+    "price":"₹115",
+    "price_url":"https://grofers.com/prn/orange-coconut-oil-jar/prid/407539",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_407539.jpg?ts=1576729577",
+    "image_url":"https://grofers.com/prn/orange-coconut-oil-jar/prid/407539"
+    },
+    {
+    "name":"O'range Coconut Oil (Jar) - Pack …",
+    "weight":"2x500 ml",
+    "weight_url":"https://grofers.com/prn/orange-coconut-oil-jar-pack-of-2/prid/411003",
+    "price":"₹218",
+    "price_url":"https://grofers.com/prn/orange-coconut-oil-jar-pack-of-2/prid/411003",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_411003.jpg?ts=1577167488",
+    "image_url":"https://grofers.com/prn/orange-coconut-oil-jar-pack-of-2/prid/411003"
+    },
+    {
+    "name":"Dhara Life Refined Rice Bran Oil (Po…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/dhara-life-refined-rice-bran-oil-pouch/prid/18581",
+    "price":"₹122",
+    "price_url":"https://grofers.com/prn/dhara-life-refined-rice-bran-oil-pouch/prid/18581",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_18581.jpg",
+    "image_url":"https://grofers.com/prn/dhara-life-refined-rice-bran-oil-pouch/prid/18581"
+    },
+    {
+    "name":"Saffola Gold Pro Healthy Lifestyle Edible Oil (Jar)…",
+    "weight":"3x2 l",
+    "weight_url":"https://grofers.com/prn/saffola-gold-pro-healthy-lifestyle-edible-oil-jar-pack-of-3/prid/415647",
+    "price":"₹749",
+    "price_url":"https://grofers.com/prn/saffola-gold-pro-healthy-lifestyle-edible-oil-jar-pack-of-3/prid/415647",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_415647.jpg?ts=1582005573",
+    "image_url":"https://grofers.com/prn/saffola-gold-pro-healthy-lifestyle-edible-oil-jar-pack-of-3/prid/415647"
+    },
+    {
+    "name":"Saffola Active Pro Weight Watchers Edible Oil (P…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/saffola-active-pro-weight-watchers-edible-oil-pouch/prid/108920",
+    "price":"₹144",
+    "price_url":"https://grofers.com/prn/saffola-active-pro-weight-watchers-edible-oil-pouch/prid/108920",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_108920.jpg?ts=1582801991",
+    "image_url":"https://grofers.com/prn/saffola-active-pro-weight-watchers-edible-oil-pouch/prid/108920"
+    },
+    {
+    "name":"Saffola Active Pro Weight Watchers Edible Oil (P…",
+    "weight":"3x1 l",
+    "weight_url":"https://grofers.com/prn/saffola-active-pro-weight-watchers-edible-oil-pouch-pack-of-3/prid/388046",
+    "price":"₹419",
+    "price_url":"https://grofers.com/prn/saffola-active-pro-weight-watchers-edible-oil-pouch-pack-of-3/prid/388046",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_388046.jpg?ts=1549969083",
+    "image_url":"https://grofers.com/prn/saffola-active-pro-weight-watchers-edible-oil-pouch-pack-of-3/prid/388046"
+    },
+    {
+    "name":"Saffola Gold Pro Healthy Lifestyle Edible Oil (…",
+    "weight":"2 l",
+    "weight_url":"https://grofers.com/prn/saffola-gold-pro-healthy-lifestyle-edible-oil-jar/prid/3769",
+    "price":"₹323",
+    "price_url":"https://grofers.com/prn/saffola-gold-pro-healthy-lifestyle-edible-oil-jar/prid/3769",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_3769.jpg?ts=1582801972",
+    "image_url":"https://grofers.com/prn/saffola-gold-pro-healthy-lifestyle-edible-oil-jar/prid/3769"
+    },
+    {
+    "name":"Saffola Total Pro Heart Conscious Jar Edible Oi…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/saffola-total-pro-heart-conscious-jar-edible-oil-jar/prid/215217",
+    "price":"₹198",
+    "price_url":"https://grofers.com/prn/saffola-total-pro-heart-conscious-jar-edible-oil-jar/prid/215217",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_215217.jpg?ts=1582801991",
+    "image_url":"https://grofers.com/prn/saffola-total-pro-heart-conscious-jar-edible-oil-jar/prid/215217"
+    },
+    {
+    "name":"Saffola Total Pro Heart Conscious Edible Oil (…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/saffola-total-pro-heart-conscious-edible-oil-pouch/prid/410619",
+    "price":"₹173",
+    "price_url":"https://grofers.com/prn/saffola-total-pro-heart-conscious-edible-oil-pouch/prid/410619",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_410619.jpg?ts=1582801863",
+    "image_url":"https://grofers.com/prn/saffola-total-pro-heart-conscious-edible-oil-pouch/prid/410619"
+    },
+    {
+    "name":"Saffola Gold Pro Healthy Lifestyle Edible Oil (Jar)…",
+    "weight":"2x2 l",
+    "weight_url":"https://grofers.com/prn/saffola-gold-pro-healthy-lifestyle-edible-oil-jar-pack-of-2/prid/379459",
+    "price":"₹499",
+    "price_url":"https://grofers.com/prn/saffola-gold-pro-healthy-lifestyle-edible-oil-jar-pack-of-2/prid/379459",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_379459.jpg?ts=1549968909",
+    "image_url":"https://grofers.com/prn/saffola-gold-pro-healthy-lifestyle-edible-oil-jar-pack-of-2/prid/379459"
+    },
+    {
+    "name":"Oleev Smart Edible Oil (Po…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/oleev-smart-edible-oil-pouch/prid/378989",
+    "price":"₹135",
+    "price_url":"https://grofers.com/prn/oleev-smart-edible-oil-pouch/prid/378989",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_378989.jpg?ts=1574316642",
+    "image_url":"https://grofers.com/prn/oleev-smart-edible-oil-pouch/prid/378989"
+    },
+    {
+    "name":"Nature Fresh Acti Heart Edible Oil (Po…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/nature-fresh-acti-heart-edible-oil-pouch/prid/394900",
+    "price":"₹175",
+    "price_url":"https://grofers.com/prn/nature-fresh-acti-heart-edible-oil-pouch/prid/394900",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_394900.jpg?ts=1563941436",
+    "image_url":"https://grofers.com/prn/nature-fresh-acti-heart-edible-oil-pouch/prid/394900"
+    },
+    {
+    "name":"Grofers Mother's Choice Canola Oil (Bottle) - Buy…",
+    "weight":"2x1 l",
+    "weight_url":"https://grofers.com/prn/grofers-mothers-choice-canola-oil-bottle-buy-1-get-1-free/prid/401885",
+    "price":"₹250",
+    "price_url":"https://grofers.com/prn/grofers-mothers-choice-canola-oil-bottle-buy-1-get-1-free/prid/401885",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_401885.jpg?ts=1557754571",
+    "image_url":"https://grofers.com/prn/grofers-mothers-choice-canola-oil-bottle-buy-1-get-1-free/prid/401885"
+    },
+    {
+    "name":"Grofers Mother's Choice Canola Oil (Bot…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/grofers-mothers-choice-canola-oil-bottle/prid/400958",
+    "price":"₹127",
+    "price_url":"https://grofers.com/prn/grofers-mothers-choice-canola-oil-bottle/prid/400958",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_400958.jpg?ts=1575012477",
+    "image_url":"https://grofers.com/prn/grofers-mothers-choice-canola-oil-bottle/prid/400958"
+    },
+    {
+    "name":"Borges Refined Canola Oil (Bot…",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/borges-refined-canola-oil-bottle/prid/45551",
+    "price":"₹205",
+    "price_url":"https://grofers.com/prn/borges-refined-canola-oil-bottle/prid/45551",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_45551.jpg",
+    "image_url":"https://grofers.com/prn/borges-refined-canola-oil-bottle/prid/45551"
+    },
+    {
+    "name":"Hudson Canola Oil (Bottle) - Pack …",
+    "weight":"2x1 l",
+    "weight_url":"https://grofers.com/prn/hudson-canola-oil-bottle-pack-of-2/prid/416625",
+    "price":"₹299",
+    "price_url":"https://grofers.com/prn/hudson-canola-oil-bottle-pack-of-2/prid/416625",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_416625.jpg?ts=1583736281",
+    "image_url":"https://grofers.com/prn/hudson-canola-oil-bottle-pack-of-2/prid/416625"
+    },
+    {
+    "name":"Hudson Canola Oil (Bottle)",
+    "weight":"1 l",
+    "weight_url":"https://grofers.com/prn/hudson-canola-oil-bottle/prid/43397",
+    "price":"₹180",
+    "price_url":"https://grofers.com/prn/hudson-canola-oil-bottle/prid/43397",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_43397.jpg?ts=1581334757",
+    "image_url":"https://grofers.com/prn/hudson-canola-oil-bottle/prid/43397"
+    },
+    {
+    "name":"Hudson Canola Oil",
+    "weight":"5 l",
+    "weight_url":"https://grofers.com/prn/hudson-canola-oil/prid/36140",
+    "price":"₹760",
+    "price_url":"https://grofers.com/prn/hudson-canola-oil/prid/36140",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_36140.jpg?ts=1581334757",
+    "image_url":"https://grofers.com/prn/hudson-canola-oil/prid/36140"
+    },
+    {
+    "name":"Sundrop Superlite Advanced Sunflower Oi…",
+    "weight":"3 l",
+    "weight_url":"https://grofers.com/prn/sundrop-superlite-advanced-sunflower-oil-jar/prid/409324",
+    "price":"₹415",
+    "price_url":"https://grofers.com/prn/sundrop-superlite-advanced-sunflower-oil-jar/prid/409324",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_409324.jpg?ts=1574678235",
+    "image_url":"https://grofers.com/prn/sundrop-superlite-advanced-sunflower-oil-jar/prid/409324"
+    },
+    {
+    "name":"Sundrop Heart Blended Cooking Oil (…",
+    "weight":"3 l",
+    "weight_url":"https://grofers.com/prn/sundrop-heart-blended-cooking-oil-jar/prid/409325",
+    "price":"₹429",
+    "price_url":"https://grofers.com/prn/sundrop-heart-blended-cooking-oil-jar/prid/409325",
+    "image":"https://cdn.grofers.com/app/images/products/normal/pro_409325.jpg?ts=1574678235",
+    "image_url":"https://grofers.com/prn/sundrop-heart-blended-cooking-oil-jar/prid/409325"
+    }
+    ]
+    }

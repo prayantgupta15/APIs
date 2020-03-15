@@ -1,0 +1,391 @@
+{
+    "Rice & Other Grains": [
+        {
+            "name": "Grofers Mother's Choice Thick …",
+            "weight": "500 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-thick-poha/prid/389735",
+            "price": "₹27",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-thick-poha/prid/389735",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389735.jpg?ts=1575012809",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-thick-poha/prid/389735"
+        },
+        {
+            "name": "Family Farm Mogra Broken Basmati …",
+            "weight": "10 kg",
+            "weight_url": "https://grofers.com/prn/family-farm-mogra-broken-basmati-rice/prid/400226",
+            "price": "₹332",
+            "price_url": "https://grofers.com/prn/family-farm-mogra-broken-basmati-rice/prid/400226",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_400226.jpg?ts=1564554248",
+            "image_url": "https://grofers.com/prn/family-farm-mogra-broken-basmati-rice/prid/400226"
+        },
+        {
+            "name": "Family Farm Long Grain Regular …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/family-farm-long-grain-regular-rice/prid/407444",
+            "price": "₹205",
+            "price_url": "https://grofers.com/prn/family-farm-long-grain-regular-rice/prid/407444",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_407444.jpg?ts=1573207987",
+            "image_url": "https://grofers.com/prn/family-farm-long-grain-regular-rice/prid/407444"
+        },
+        {
+            "name": "Grofers Mother's Choice Small Sabudana/Moti…",
+            "weight": "500 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-small-sabudanamotidanasago/prid/389738",
+            "price": "₹58",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-small-sabudanamotidanasago/prid/389738",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389738.jpg?ts=1575012809",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-small-sabudanamotidanasago/prid/389738"
+        },
+        {
+            "name": "Grofers Mother's Choice Sonamasuri …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-sonamasuri-rice/prid/389798",
+            "price": "₹244",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-sonamasuri-rice/prid/389798",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389798.jpg?ts=1575012759",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-sonamasuri-rice/prid/389798"
+        },
+        {
+            "name": "Grofers Mother's Choice Wheat Daliya/L…",
+            "weight": "500g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-wheat-daliyalapsi/prid/389731",
+            "price": "₹22",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-wheat-daliyalapsi/prid/389731",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389731.jpg?ts=1575012808",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-wheat-daliyalapsi/prid/389731"
+        },
+        {
+            "name": "Organic Tattva Sonamasuri …",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/organic-tattva-sonamasuri-rice/prid/86977",
+            "price": "₹89",
+            "price_url": "https://grofers.com/prn/organic-tattva-sonamasuri-rice/prid/86977",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_86977.jpg",
+            "image_url": "https://grofers.com/prn/organic-tattva-sonamasuri-rice/prid/86977"
+        },
+        {
+            "name": "Grofers Mother's Choice Long Grain Regular …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-long-grain-regular-rice/prid/390038",
+            "price": "₹242",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-long-grain-regular-rice/prid/390038",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_390038.jpg?ts=1575012713",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-long-grain-regular-rice/prid/390038"
+        },
+        {
+            "name": "Rajdhani Mota Poha",
+            "weight": "500 g",
+            "weight_url": "https://grofers.com/prn/rajdhani-mota-poha/prid/31",
+            "price": "₹50",
+            "price_url": "https://grofers.com/prn/rajdhani-mota-poha/prid/31",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_31.jpg?ts=1553676627",
+            "image_url": "https://grofers.com/prn/rajdhani-mota-poha/prid/31"
+        },
+        {
+            "name": "Kohinoor Charminar Long Grains Regular …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/kohinoor-charminar-long-grains-regular-rice/prid/32637",
+            "price": "₹295",
+            "price_url": "https://grofers.com/prn/kohinoor-charminar-long-grains-regular-rice/prid/32637",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_32637.jpg?ts=1559041355",
+            "image_url": "https://grofers.com/prn/kohinoor-charminar-long-grains-regular-rice/prid/32637"
+        },
+        {
+            "name": "Family Farm Classic Basmati …",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/family-farm-classic-basmati-rice/prid/407442",
+            "price": "₹74",
+            "price_url": "https://grofers.com/prn/family-farm-classic-basmati-rice/prid/407442",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_407442.jpg?ts=1573207987",
+            "image_url": "https://grofers.com/prn/family-farm-classic-basmati-rice/prid/407442"
+        },
+        {
+            "name": "Fortune Biryani Classic Basmati …",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/fortune-biryani-classic-basmati-rice/prid/395360",
+            "price": "₹146",
+            "price_url": "https://grofers.com/prn/fortune-biryani-classic-basmati-rice/prid/395360",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_395360.jpg?ts=1583238121",
+            "image_url": "https://grofers.com/prn/fortune-biryani-classic-basmati-rice/prid/395360"
+        },
+        {
+            "name": "Pansari Tasty Basmati Rice",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/pansari-tasty-basmati-rice/prid/410371",
+            "price": "₹321",
+            "price_url": "https://grofers.com/prn/pansari-tasty-basmati-rice/prid/410371",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_410371.jpg?ts=1576130565",
+            "image_url": "https://grofers.com/prn/pansari-tasty-basmati-rice/prid/410371"
+        },
+        {
+            "name": "Pansari Signature Basmati …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/pansari-signature-basmati-rice/prid/365681",
+            "price": "₹539",
+            "price_url": "https://grofers.com/prn/pansari-signature-basmati-rice/prid/365681",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_365681.jpg",
+            "image_url": "https://grofers.com/prn/pansari-signature-basmati-rice/prid/365681"
+        },
+        {
+            "name": "India Gate Feast Rozzana Basmati …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/india-gate-feast-rozzana-basmati-rice/prid/10967",
+            "price": "₹377",
+            "price_url": "https://grofers.com/prn/india-gate-feast-rozzana-basmati-rice/prid/10967",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_10967.jpg?ts=1562924141",
+            "image_url": "https://grofers.com/prn/india-gate-feast-rozzana-basmati-rice/prid/10967"
+        },
+        {
+            "name": "India Gate Super Basmati …",
+            "weight": "1 kg + 500 g",
+            "weight_url": "https://grofers.com/prn/india-gate-super-basmati-rice/prid/20",
+            "price": "₹181",
+            "price_url": "https://grofers.com/prn/india-gate-super-basmati-rice/prid/20",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_20.jpg?ts=1562924141",
+            "image_url": "https://grofers.com/prn/india-gate-super-basmati-rice/prid/20"
+        },
+        {
+            "name": "India Gate Regular Choice Basmati …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/india-gate-regular-choice-basmati-rice/prid/372896",
+            "price": "₹359",
+            "price_url": "https://grofers.com/prn/india-gate-regular-choice-basmati-rice/prid/372896",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_372896.jpg?ts=1562924267",
+            "image_url": "https://grofers.com/prn/india-gate-regular-choice-basmati-rice/prid/372896"
+        },
+        {
+            "name": "India Gate Feast Rozana Basmati …",
+            "weight": "10 kg",
+            "weight_url": "https://grofers.com/prn/india-gate-feast-rozana-basmati-rice/prid/111627",
+            "price": "₹679",
+            "price_url": "https://grofers.com/prn/india-gate-feast-rozana-basmati-rice/prid/111627",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_111627.jpg?ts=1561547913",
+            "image_url": "https://grofers.com/prn/india-gate-feast-rozana-basmati-rice/prid/111627"
+        },
+        {
+            "name": "India Gate Classic Basmati …",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/india-gate-classic-basmati-rice/prid/21",
+            "price": "₹179",
+            "price_url": "https://grofers.com/prn/india-gate-classic-basmati-rice/prid/21",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_21.jpg?ts=1562924141",
+            "image_url": "https://grofers.com/prn/india-gate-classic-basmati-rice/prid/21"
+        },
+        {
+            "name": "Daawat Rozana Mini Mogra Basmati …",
+            "weight": "10 kg",
+            "weight_url": "https://grofers.com/prn/daawat-rozana-mini-mogra-basmati-rice/prid/335466",
+            "price": "₹453",
+            "price_url": "https://grofers.com/prn/daawat-rozana-mini-mogra-basmati-rice/prid/335466",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_335466.jpg?ts=1574316537",
+            "image_url": "https://grofers.com/prn/daawat-rozana-mini-mogra-basmati-rice/prid/335466"
+        },
+        {
+            "name": "Daawat Biryani Basmati R…",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/daawat-biryani-basmati-rice/prid/18762",
+            "price": "₹183",
+            "price_url": "https://grofers.com/prn/daawat-biryani-basmati-rice/prid/18762",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_18762.jpg?ts=1574316533",
+            "image_url": "https://grofers.com/prn/daawat-biryani-basmati-rice/prid/18762"
+        },
+        {
+            "name": "Kohinoor Authentic Royale Biryani Basmati …",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/kohinoor-authentic-royale-biryani-basmati-rice/prid/63561",
+            "price": "₹139",
+            "price_url": "https://grofers.com/prn/kohinoor-authentic-royale-biryani-basmati-rice/prid/63561",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_63561.jpg",
+            "image_url": "https://grofers.com/prn/kohinoor-authentic-royale-biryani-basmati-rice/prid/63561"
+        },
+        {
+            "name": "Grofers Mother's Choice Everyday/Rozana Bas…",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-everydayrozana-basmati-rice/prid/389732",
+            "price": "₹62",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-everydayrozana-basmati-rice/prid/389732",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389732.jpg?ts=1575012808",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-everydayrozana-basmati-rice/prid/389732"
+        },
+        {
+            "name": "Grofers Mother's Choice Everyday/Rozana Bas…",
+            "weight": "2x1 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-everydayrozana-basmati-rice-buy-1-get-1-free/prid/416053",
+            "price": "₹120",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-everydayrozana-basmati-rice-buy-1-get-1-free/prid/416053",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_416053.jpg?ts=1582544513",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-everydayrozana-basmati-rice-buy-1-get-1-free/prid/416053"
+        },
+        {
+            "name": "Grofers Mother's Choice Biryani Basmati …",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-biryani-basmati-rice/prid/390040",
+            "price": "₹89",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-biryani-basmati-rice/prid/390040",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_390040.jpg?ts=1575012713",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-biryani-basmati-rice/prid/390040"
+        },
+        {
+            "name": "Grofers Mother's Choice Pulav Basmati …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-pulav-basmati-rice/prid/392614",
+            "price": "₹400",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-pulav-basmati-rice/prid/392614",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_392614.jpg?ts=1568913934",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-pulav-basmati-rice/prid/392614"
+        },
+        {
+            "name": "Grofers Mother's Choice Mogra Basmati …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-mogra-basmati-rice/prid/389929",
+            "price": "₹236",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-mogra-basmati-rice/prid/389929",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389929.jpg?ts=1575012709",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-mogra-basmati-rice/prid/389929"
+        },
+        {
+            "name": "Grofers Mother's Choice Golden Sella Basmati …",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-golden-sella-basmati-rice/prid/390042",
+            "price": "₹88",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-golden-sella-basmati-rice/prid/390042",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_390042.jpg?ts=1575012713",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-golden-sella-basmati-rice/prid/390042"
+        },
+        {
+            "name": "Grofers Mother's Choice Patla …",
+            "weight": "500 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-patla-poha/prid/389880",
+            "price": "₹36",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-patla-poha/prid/389880",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389880.jpg?ts=1575012761",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-patla-poha/prid/389880"
+        },
+        {
+            "name": "Organic Tattva White Poha",
+            "weight": "500 g",
+            "weight_url": "https://grofers.com/prn/organic-tattva-white-poha/prid/13466",
+            "price": "₹58",
+            "price_url": "https://grofers.com/prn/organic-tattva-white-poha/prid/13466",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_13466.jpg",
+            "image_url": "https://grofers.com/prn/organic-tattva-white-poha/prid/13466"
+        },
+        {
+            "name": "Rajdhani Daliya",
+            "weight": "500 g",
+            "weight_url": "https://grofers.com/prn/rajdhani-daliya/prid/17",
+            "price": "₹38",
+            "price_url": "https://grofers.com/prn/rajdhani-daliya/prid/17",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_17.jpg?ts=1553676308",
+            "image_url": "https://grofers.com/prn/rajdhani-daliya/prid/17"
+        },
+        {
+            "name": "Grofers Mother's Choice Long Grain Regular Rice…",
+            "weight": "2x1 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-long-grain-regular-rice-buy-1-get-1-free/prid/409648",
+            "price": "₹120",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-long-grain-regular-rice-buy-1-get-1-free/prid/409648",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_409648.jpg?ts=1575614294",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-long-grain-regular-rice-buy-1-get-1-free/prid/409648"
+        },
+        {
+            "name": "India Gate Broken Mogra Basmati …",
+            "weight": "10 kg",
+            "weight_url": "https://grofers.com/prn/india-gate-broken-mogra-basmati-rice/prid/18770",
+            "price": "₹587",
+            "price_url": "https://grofers.com/prn/india-gate-broken-mogra-basmati-rice/prid/18770",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_18770.jpg?ts=1562924191",
+            "image_url": "https://grofers.com/prn/india-gate-broken-mogra-basmati-rice/prid/18770"
+        },
+        {
+            "name": "India Gate Mini Broken Mogra Basmati …",
+            "weight": "10 kg",
+            "weight_url": "https://grofers.com/prn/india-gate-mini-broken-mogra-basmati-rice/prid/18769",
+            "price": "₹429",
+            "price_url": "https://grofers.com/prn/india-gate-mini-broken-mogra-basmati-rice/prid/18769",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_18769.jpg?ts=1562924191",
+            "image_url": "https://grofers.com/prn/india-gate-mini-broken-mogra-basmati-rice/prid/18769"
+        },
+        {
+            "name": "Grofers Mother's Choice Mini Mogra Basmati …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-mini-mogra-basmati-rice/prid/390036",
+            "price": "₹213",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-mini-mogra-basmati-rice/prid/390036",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_390036.jpg?ts=1575012712",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-mini-mogra-basmati-rice/prid/390036"
+        },
+        {
+            "name": "India Gate Dubar Basmati …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/india-gate-dubar-basmati-rice/prid/10965",
+            "price": "₹444",
+            "price_url": "https://grofers.com/prn/india-gate-dubar-basmati-rice/prid/10965",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_10965.jpg?ts=1562924141",
+            "image_url": "https://grofers.com/prn/india-gate-dubar-basmati-rice/prid/10965"
+        },
+        {
+            "name": "Daawat Dubar Basmati Ri…",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/daawat-dubar-basmati-rice/prid/36636",
+            "price": "₹100",
+            "price_url": "https://grofers.com/prn/daawat-dubar-basmati-rice/prid/36636",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_36636.jpg?ts=1574316533",
+            "image_url": "https://grofers.com/prn/daawat-dubar-basmati-rice/prid/36636"
+        },
+        {
+            "name": "Grofers Mother's Choice Dubar Basmati …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-dubar-basmati-rice/prid/389927",
+            "price": "₹290",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-dubar-basmati-rice/prid/389927",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389927.jpg?ts=1575012709",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-dubar-basmati-rice/prid/389927"
+        },
+        {
+            "name": "Grofers Mother's Choice Puffed …",
+            "weight": "200 g",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-puffed-rice/prid/389778",
+            "price": "₹23",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-puffed-rice/prid/389778",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389778.jpg?ts=1575012758",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-puffed-rice/prid/389778"
+        },
+        {
+            "name": "Grofers Mother's Choice Parmal …",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-parmal-rice/prid/389781",
+            "price": "₹44",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-parmal-rice/prid/389781",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389781.jpg?ts=1575012758",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-parmal-rice/prid/389781"
+        },
+        {
+            "name": "India Gate 12 Min Active Health Special Brown …",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/india-gate-12-min-active-health-special-brown-basmati-rice/prid/28",
+            "price": "₹149",
+            "price_url": "https://grofers.com/prn/india-gate-12-min-active-health-special-brown-basmati-rice/prid/28",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_28.jpg?ts=1563782783",
+            "image_url": "https://grofers.com/prn/india-gate-12-min-active-health-special-brown-basmati-rice/prid/28"
+        },
+        {
+            "name": "Grofers Mother's Choice Brown Basmati …",
+            "weight": "1 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-brown-basmati-rice/prid/389874",
+            "price": "₹82",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-brown-basmati-rice/prid/389874",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389874.jpg?ts=1575012761",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-brown-basmati-rice/prid/389874"
+        },
+        {
+            "name": "Grofers Mother's Choice Tibar Basmati …",
+            "weight": "5 kg",
+            "weight_url": "https://grofers.com/prn/grofers-mothers-choice-tibar-basmati-rice/prid/389796",
+            "price": "₹345",
+            "price_url": "https://grofers.com/prn/grofers-mothers-choice-tibar-basmati-rice/prid/389796",
+            "image": "https://cdn.grofers.com/app/images/products/normal/pro_389796.jpg?ts=1568913967",
+            "image_url": "https://grofers.com/prn/grofers-mothers-choice-tibar-basmati-rice/prid/389796"
+        }
+    ]
+}
